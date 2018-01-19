@@ -1,0 +1,7 @@
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\bin\Debug\mathchallenge1.exe.config
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\bin\Debug\mathchallenge1.exe
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\bin\Debug\mathchallenge1.pdb
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\obj\Debug\mathchallenge1.csprojResolveAssemblyReference.cache
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\obj\Debug\mathchallenge1.csproj.CoreCompileInputs.cache
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\obj\Debug\mathchallenge1.exe
+C:\Users\Safa\source\repos\mathchallenge1\mathchallenge1\obj\Debug\mathchallenge1.pdb
